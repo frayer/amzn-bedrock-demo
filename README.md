@@ -31,9 +31,9 @@ uv run main.py
 
 ## Example output from "How much more was a share of NVDA worth compared to AAPL on Jan 29, 2024 expressed as a percentage?"
 
+```
 Enter a prompt: How much more was a share of NVDA worth compared to AAPL on Jan 29, 2024 expressed as a percentage?
 
-```
 Thought » To calculate the percentage difference in price between NVDA and AAPL on January 29, 2024, I first need to retrieve the closing prices for both stocks on that date. I will use the 'get_stock_price' tool for this. After obtaining the prices, I will use the 'add_subtract_multiply_divide' tool to find the difference and then calculate the percentage difference.
 Output »
 
