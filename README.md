@@ -1,6 +1,6 @@
 # Amazon Bedrock Demo
 
-This is a demo of using Amazon Bedrock's Nova agent to answer questions about stock prices using locally mocked data.
+Demo of using Amazon's Nova model to create a basic Agent using locally mocked data.
 
 # Running the demo
 
